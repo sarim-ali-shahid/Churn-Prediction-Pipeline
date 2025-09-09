@@ -1,5 +1,7 @@
 # Sarim Ali Shahid (DHC-1724)
 
+**NOTE:** Due to GitHub size restrictions, the trained model file (churn_pipeline.pkl, 65 MB) can't be uploaded. 
+
 # 📌 Telco Customer Churn Prediction – ML Pipeline
 
 ## 🎯 Objective
